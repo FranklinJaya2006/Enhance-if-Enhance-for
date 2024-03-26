@@ -1,4 +1,4 @@
-# Enhance-if-Enhance-for [Frankklin Jaya]
+# Enhance-if-Enhance-for [Franklin Jaya]
 
 #Selamat pagi/siang/malam, Ini adalah tugas OOP yang dibeerikan oleh pak Arnold.  Tugas ini bertujuan agar kami dapat mendalami tentang kekurangan enhance if dan enhance for.
 
